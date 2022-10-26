@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michał Rak</h1>
 <h3 align="center">A aspiring frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on ["pokedex"](https://github.com/Rmichal503/pokedexReact)
+- 🔭 I’m currently working on ["simple text game"](https://github.com/Rmichal503/simpleGame/)
 
 - 🌱 I’m currently learning **React, Firebase and everything else what I thinks is cool**
 
