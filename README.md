@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michał Rak</h1>
 <h3 align="center">A aspiring frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on ["simple text game"](https://github.com/Rmichal503/simpleGame/)
-
-- 🌱 I’m currently learning **React, Firebase and everything else what I thinks is cool**
+- 🌱 I’m currently learning **NextJS, and everything else what I thinks is cool**
 
 - In near feature i'll try to rewrite my graduation project to react [FlyHigh](https://angular-node-fly.herokuapp.com)
 
