@@ -1,3 +1,5 @@
+# Hi 👋, I'm Michał Rak
+
 # 💫 About Me:
 🔭 I’m currently working on a client management application using NextJS and Supabase<br>
 
