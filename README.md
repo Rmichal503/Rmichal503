@@ -1,8 +1,6 @@
 # Hi 👋, I'm Michał Rak
 
 # 💫 About Me:
-🔭 I’m currently working on a client management application using NextJS and Supabase<br>
-:money_with_wings: I'm also working on an expense tracking app that I also use NextJS and Supabase here is [Link to repo](https://github.com/Rmichal503/moneyTracker) and [Link to app](https://www.money-trapper.com)<br>
 
 🌱 I'm still learning NextJS, due to the current projects I'm also trying to get to know Supabase well<br>
 
